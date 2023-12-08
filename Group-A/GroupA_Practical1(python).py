@@ -8,6 +8,7 @@ c) Number of students who play neither cricket nor badminton
 d) Number of students who play cricket and football but not badminton.
 (Note- While realizing the group, duplicate entries should be avoided, Do not use SET
 built-in functions) 
+
 '''
 #"List of students who play both Cricket and Badminton
 def intersection(list1, list2):
