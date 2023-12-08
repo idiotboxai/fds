@@ -1,5 +1,4 @@
 /*
-
 Department of Computer Engineering has student's club named 'Pinnacle Club'. Students
 of second, third and final year of department can be granted membership on request.
 Similarly one may cancel the membership of club. First node is reserved for president of
